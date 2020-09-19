@@ -1,0 +1,73 @@
+# Title: Descriptive title of your project
+
+CrimeIntel
+A data-mining oriented approach to public safety
+
+# Team members: first and last name of each member
+Aaron Shyuu | Max Smith | Thomas Dolan
+
+
+# Description: 2-3 sentence paragraph project description - what interesting questions do
+you intend to answer?
+
+Consolidate these:
+
+THOMAS
+Is crime paired with Holiday weekends? Is crime seasonal?
+What are the top 5 deadliest settings (time/place) (can we map?)
+how is crime related to econonomic boom and bust?
+
+MAX
+Do violent & non-violent crime differ geographically?
+Are V & NV crime trends correlated? 
+What trends exist? Total? By crime type?
+Do trends persist from year to year / by location?
+Are crime types categorically clustered?
+
+
+AARON
+Is there a correlation between crime and time of year and location?
+Classification - Predict crime type based on month/time of crime and location.
+Classification / outlier analysis - What are dangerous and safe neighborhoods based on patterns of crime? (Crime distribution in Chicago for ex.)
+Predict how much crime in the future in Chicago (based on some attributes)
+
+
+
+# Prior Work: What prior work has been done on your idea
+
+Because it is a public data set hosted by Google and accessible using Big Query, quite a few people have done a variety of analyses on the Chicago Crime Set. On Kaggle alone there are 495 notebooks, here are a few more interesting examples:
+https://www.kaggle.com/mkrkkinen/chicago-crime-on-christmas
+https://www.kaggle.com/alkadri/chicago-codes-crime-map-and-bigquery-in-r
+
+Here also are a few other analyses posted elsewhere:
+https://medium.com/@stafa002/my-notes-on-chicago-crime-data-analysis-ed66915dbb20
+https://cjango.wordpress.com/portfolio/chicago-crime-data-analysis-python-project/
+
+We will be including several steps in our data mining process that we believe will help us to yield a novel analysis. We will be differentiating crime by violent and non-violent crime according to the FBI standards defined here: http://gis.chicagopolice.org/clearmap_crime_sums/crime_types.html, then include (nationwide? local?) economic data over the same time period to help us identify unique trends and relationships. 
+
+# Datasets:
+○ List of datasets to use
+○ Where found (URL and who is supplying the data, e.g., NASA)
+○ Whether it you have it downloaded (on who’s machine)
+
+ https://www.kaggle.com/chicago/chicago-crime
+ https://data.cityofchicago.org/Public-Safety/Boundaries-Police-Beats-current-/aerh-rz74
+
+
+# Proposed work: what do you need to do?
+○ Data cleaning:
+○ Data preprocessing:
+○ Data integration:
+○ etc.
+
+
+
+# List of tool(s) you intend to use
+Google Big Query
+Jupyter Notebooks
+SQL
+Python
+Pandas / Numpy
+Tableau
+
+# Evaluation: How you can evaluate your results
