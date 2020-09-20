@@ -1,7 +1,7 @@
 ### Title: Descriptive title of your project
 
-#CrimeIntel
-#A data-mining oriented approach to public safety
+# CrimeIntel
+# A data-mining oriented approach to public safety
 
 ### Team members: first and last name of each member
 Aaron Shyuu | Max Smith | Thomas Dolan
