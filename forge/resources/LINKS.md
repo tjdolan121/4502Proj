@@ -1,6 +1,6 @@
 ### [GITHUB PROJECT](https://github.com/tjdolan121/4502Proj)
 
-### [DATASET (KAGGLE)(https://www.kaggle.com/chicago/chicago-crime)
+### [DATASET (KAGGLE)](https://www.kaggle.com/chicago/chicago-crime)
 
 ### [DATASET (BIG QUERY)](https://bigquery.cloud.google.com/dataset/bigquery-public-data:chicago_crime)
 
