@@ -1,15 +1,15 @@
-# Title: Descriptive title of your project
+### Title: Descriptive title of your project
 
-CrimeIntel
-A data-mining oriented approach to public safety
+#CrimeIntel
+#A data-mining oriented approach to public safety
 
-# Team members: first and last name of each member
+### Team members: first and last name of each member
 Aaron Shyuu | Max Smith | Thomas Dolan
 
 
-# Description: 2-3 sentence paragraph project description - what interesting questions do
+### Description: 2-3 sentence paragraph project description - what interesting questions do
 you intend to answer?
-#### TO-DO
+#### TO-DO:
 [ ] Consolidate these:
 
 THOMAS
@@ -60,7 +60,7 @@ Differentiating violent from non-violent crime, per http://gis.chicagopolice.org
 Using Chicago’s Community Areas to join crime date with other datasets and to identify other unique trends and relationships. https://en.wikipedia.org/wiki/Community_areas_in_Chicago
 
 
-# Datasets:
+### Datasets:
 ○ List of datasets to use
 ○ Where found (URL and who is supplying the data, e.g., NASA)
 ○ Whether it you have it downloaded (on who’s machine)
@@ -69,9 +69,9 @@ https://www.kaggle.com/chicago/chicago-crime
 https://data.cityofchicago.org/Public-Safety/Boundaries-Police-Beats-current-/aerh-rz74
 
 
-# Proposed work: what do you need to do?
+### Proposed work: what do you need to do?
 
-TODO
+#### TODO:
 [ ] Finalize Datasets and questions so this can be completed. 
 
 [slide1]
@@ -95,7 +95,7 @@ TODO
 
 
 
-# List of tool(s) you intend to use
+### List of tool(s) you intend to use
 - Google Big Query
 - Jupyter Notebooks
 - SQL
@@ -103,4 +103,4 @@ TODO
 - Pandas / Numpy
 - Tableau
 
-# Evaluation: How you can evaluate your results
+### Evaluation: How you can evaluate your results
