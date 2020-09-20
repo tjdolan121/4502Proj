@@ -60,9 +60,9 @@ Using Chicago’s Community Areas to join crime date with other datasets and to 
 
 
 ### Datasets:
-○ List of datasets to use
-○ Where found (URL and who is supplying the data, e.g., NASA)
-○ Whether it you have it downloaded (on who’s machine)
+- List of datasets to use
+- Where found (URL and who is supplying the data, e.g., NASA)
+- Whether it you have it downloaded (on who’s machine)
 
 https://www.kaggle.com/chicago/chicago-crime
 https://data.cityofchicago.org/Public-Safety/Boundaries-Police-Beats-current-/aerh-rz74
@@ -74,23 +74,19 @@ https://data.cityofchicago.org/Public-Safety/Boundaries-Police-Beats-current-/ae
 [ ] Finalize Datasets and questions so this can be completed. 
 
 [slide1]
-○ Data cleaning:
+Data cleaning:
  - handling of Null Values
 
 [slide2]
-○ Data preprocessing:
+Data preprocessing:
  - converting nominal attributes, in particular 'primary type', 'description', and 'location description' into numeric codes. 
  - converting arrest and domestic attributes into boolean values
  - grouping data by date hierarchy for matching financial data? 
 
 [slide3]
-○ Data integration:
+Data integration:
  - create new boolean attribute identifying crime as violent or non-violent by joining crime transactions 'primary type' (or FBI code?) to data in  
  - integrate economic data using ??? 
-
-○ etc.
-
-
 
 
 
