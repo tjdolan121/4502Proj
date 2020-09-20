@@ -15,3 +15,6 @@ https://ucr.fbi.gov/hate-crime/2011/resources/variables-affecting-crime
 
 ### PART 1 SLIDESHOW
 https://docs.google.com/presentation/d/1zjGOTfLClZD0dj28LirC4e07wmnoBtdUXlrwJhzSYys/edit?ts=5f638a70#slide=id.g9829cb4239_0_66
+
+### COMMUNITY AREAS
+https://en.wikipedia.org/wiki/Community_areas_in_Chicago
