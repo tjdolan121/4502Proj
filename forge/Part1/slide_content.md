@@ -7,8 +7,7 @@
 Aaron Shyuu | Max Smith | Thomas Dolan
 
 
-### Description: 2-3 sentence paragraph project description - what interesting questions do
-you intend to answer?
+### Description: 2-3 sentence paragraph project description - what interesting questions do you intend to answer?
 #### TO-DO:
 [ ] Consolidate these:
 
@@ -33,7 +32,7 @@ Predict how much crime in the future in Chicago (based on some attributes)
 
 
 
-# Prior Work: What prior work has been done on your idea
+### Prior Work: What prior work has been done on your idea
 
 #### TO-DO:
 [ ] Update slides, slide3 in particular, when Datasets and Proposed Work are laid in stone. 
