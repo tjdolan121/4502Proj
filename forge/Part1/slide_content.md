@@ -75,7 +75,16 @@ https://data.cityofchicago.org/Public-Safety/Boundaries-Police-Beats-current-/ae
 
 [slide1]
 Data cleaning:
- - handling of Null Values
+- Handling null values
+- Handling noise or outliers (except when performing outlier analysis)
+- Filling in missing data with global constant, attribute mean (or same class) or inference approach (Ex: Regression and DT)
+- Checking validity and correctness of data
+- Binning to reduce effects of errors
+- Using regression to predict missing data with model
+- Using clustering to detect and remove outliers
+- Auditing data with correlations etc.
+- Data scrubbing
+
 
 [slide2]
 Data preprocessing:
