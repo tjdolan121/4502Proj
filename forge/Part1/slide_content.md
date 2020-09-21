@@ -87,10 +87,12 @@ Data cleaning:
 
 
 [slide2]
-Data preprocessing:
- - converting nominal attributes, in particular 'primary type', 'description', and 'location description' into numeric codes. 
- - converting arrest and domestic attributes into boolean values
- - grouping data by date hierarchy for matching financial data? 
+- Converting nominal attributes, in particular 'primary type', 'description', and 'location description' into numeric codes. 
+- Converting arrest and domestic attributes into boolean values
+- Grouping data by date hierarchy for matching financial data? 
+
+In general, convert different data types to numbers and normalize in preparation for data mining. 
+
 
 [slide3]
 Data integration:
