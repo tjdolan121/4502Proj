@@ -74,7 +74,7 @@ https://data.cityofchicago.org/Public-Safety/Boundaries-Police-Beats-current-/ae
 [ ] Finalize Datasets and questions so this can be completed. 
 
 [slide1]
-Data cleaning:
+Data Cleaning:
 - Handling null values
 - Handling noise or outliers (except when performing outlier analysis)
 - Filling in missing data with global constant, attribute mean (or same class) or inference approach (Ex: Regression and DT)
@@ -87,6 +87,7 @@ Data cleaning:
 
 
 [slide2]
+Data Pre-processing:
 - Converting nominal attributes, in particular 'primary type', 'description', and 'location description' into numeric codes. 
 - Converting arrest and domestic attributes into boolean values
 - Grouping data by date hierarchy for matching financial data? 
@@ -95,10 +96,23 @@ In general, convert different data types to numbers and normalize in preparation
 
 
 [slide3]
-Data integration:
- - create new boolean attribute identifying crime as violent or non-violent by joining crime transactions 'primary type' (or FBI code?) to data in  
- - integrate economic data using ??? 
+Data Integration and Reduction:
+- Filtering attributes not useful for our question 
+- Removing redundancy and duplicates (Location and latitude, longitude are redundant)
+- Removing object ID (identifier)
+- Removing derivable data (year can be derived from date, remove year attribute)
+- Reduce attribute by performing correlation analysis (Chi-square test for nominal data)
 
+
+- create new boolean attribute identifying crime as violent or non-violent by joining crime transactions 'primary type' (or FBI code?) to data in  
+- integrate economic data using ??? 
+
+
+[slide4]
+Data Transformation:
+- Smoothing out outliers when they affect data mining result
+- Aggregating data to reduce processing time and improve visualization
+- Normalizing data for data mining
 
 
 ### List of tool(s) you intend to use
@@ -106,8 +120,10 @@ Data integration:
 - Jupyter Notebooks
 - SQL
 - Python
-- Pandas / Numpy
+- Pandas / Numpy / MatplotLib, Seaborn
 - Tableau
+- Excel
 - D3.js
+
 
 ### Evaluation: How you can evaluate your results
