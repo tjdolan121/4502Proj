@@ -97,5 +97,6 @@ Data integration:
 - Python
 - Pandas / Numpy
 - Tableau
+- D3.js
 
 ### Evaluation: How you can evaluate your results
