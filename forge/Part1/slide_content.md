@@ -105,4 +105,4 @@ Reduction
 
 
 ### Evaluation: How you can evaluate your results
-A successful project will be evident if previously undiscovered patterns are uncovered during the KDD process.  An additional milestone will be to build out a tool which can assist analysts in the KDD process.
+A successful project will be evident if previously undiscovered patterns are uncovered during the KDD process.  An additional milestone will be to build out a tool which can assist analysts in the KDD process.git
