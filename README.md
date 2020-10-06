@@ -1,7 +1,9 @@
 # CrimeIntel
 ## A Data Mining Oriented Approach to Public Safety
-### Aaron Shyuu | Max Smith | Thomas Dolan
+#### Aaron Shyuu | Max Smith | Thomas Dolan
 
+### Project Submissions:
+[PART 1 SUBMISSION](04_CrimeIntel_Part1.pdf) 
 
 ### Description of the project
 
