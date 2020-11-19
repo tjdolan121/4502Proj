@@ -4,7 +4,8 @@
 
 ### Project Submissions:
 [PART 1 SUBMISSION](04_CrimeIntel_Part1.pdf)<br>
-[PART 2 SUBMISSION](04_CrimeIntel_Part2.pdf) 
+[PART 2 SUBMISSION](04_CrimeIntel_Part2.pdf)<br>
+[PART 3 SUBMISSION](04_CrimeIntel_Part3.pdf)<br>
 
 ### Description of the project
 
