@@ -21,7 +21,10 @@ Major Questions:
 •	What associations are there between locations, crime types, and crime times that will help us to identify crime hotspots and idiosyncriacies?
 
 Answers:
-
+•	There is no overt correlation between crime and local economic trends. However, these two are not completely unrelated as evidenced by the sudden dip identified in both trends during the months of COVID. This warrants further, more detailed analysis.
+•	
+•	
+•	
 
 ### Application of this knowledge
 
@@ -29,13 +32,9 @@ Answers:
 
 
 ### Video Demonstration
-
-
+[Link to brief Video Presentation]()
 
 
 ### Final Project Paper
-
-
-
-
+[Link to Final Project Paper](04_CrimeIntel_Part4.pdf)
 
