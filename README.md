@@ -21,7 +21,7 @@ Major Questions:<br>
 •	Using classification methods, can we predict whether an arrest will be made? <br>
 
 
-Answers:
+Answers:<br>
 •	 <br>
 •	 <br>
 •	We found three major crime hotspots through frequent itemset mining, confirming our initial exploratory data analysis findings. We learned key insights into the types and locations of crime occuring in those areas, as well as a few major time indicators for certain kinds of crime in those. We gained several entry points for additional analysis based on these results. We also gained several additional insights using new categorization attributes, verifying the usefulness of additional categorization types in the process. These specific findings can be found in the Question 3 - Frequent Mining notebook enclosed in this project.  <br>
