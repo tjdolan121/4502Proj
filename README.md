@@ -17,7 +17,7 @@ Our project employs data mining methods on the Chicago Crime public dataset, hos
 Major Questions:<br>
 •	Crime has steadily decreased since 2002, but plateaued in 2016. Why might crime have plateaued? <br>
 •	Is there a correlation between crime in Chicago and various economic indicators? <br>
-•	What can we learn about where and when specific kinds of crime are happening by analyzing assocations between crime type categorizations and their location and time data? Does adding more crime categorization information reveal any additional insights to these results? <br>
+•	What can we learn about where and when specific kinds of crime are happening by analyzing associations between crime type categorizations and their location and time data? Does adding more crime categorization information reveal any additional insights to these results? <br>
 •	Using classification methods, can we predict whether an arrest will be made? <br>
 
 
