@@ -12,6 +12,13 @@
 ### Description of the project
 Our project employs data mining methods on the Chicago Crime public dataset, hosted by Google as part of their BigQuery project, with the goal of yielding interesting information relating to the cause, prediction, and general topography of crime in Chicago. In doing so we hope to add an unbiased and data-driven voice to the analysis of crime in Chicago. 
 
+### Quick Links to code (Jupyter Notebooks) in this repo
+[ETL - Extract Transform Load Pipeline](/forge/code/ETLPipeLine.ipynb)<br>
+[EDA - Exploratory Data Analysis](/forge/code/EDA.ipynb)<br>
+[Data Mining 3 - Crime Trends Regressions Analysis and Economic Trend Correlations](/forge/code/DataMiningQuestions.ipynb)<br>
+[Data Mining 2 - Frequent Pattern Mining](/forge/code/FrequentItemsets.ipynb)<br>
+[Data Mining 3 - Classification Prediction Data Mining](/forge/code/ClassificationDataMining.ipynb)<br>
+
 ### Summary of the question(s) sought and the answers
 
 Major Questions:<br>
